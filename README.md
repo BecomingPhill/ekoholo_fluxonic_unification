@@ -36,3 +36,4 @@ BecomingPhill/https://github.com/BecomingPhill/ekoholo_fluxonic_unification
 ## Extended Analysis Documentation
 
 For an in-depth analysis of the research work, including detailed findings, synthesis, and thematic mapping, please refer to the contents of the `analysis` folder.
++ NOTE: The most recent versions of the documentation are located in the `tex` folder (e.g., analysis/copies/tex), while the PDF copies in `analysis/copies/pdf` may be outdated.
