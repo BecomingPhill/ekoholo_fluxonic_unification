@@ -26,6 +26,8 @@ I'm not saying I've solved everything—just testing an idea from RST. I've got 
 
 ### How to Use
 - Read the papers, each has equations and code simple code examples that can be used to run the simulations yourself. You can extend the simulations to more dimensions or add more complex features.
+- The papers are each versioned by number, with the latest version being `v1.1`.
+- There is no current master index for how the papers are arranged but the 'The Ekoholo Fluxon Model- A Solitonic Foundation for Electromagnetism and beyond' in the /annotated/tex folder is a general overview'.
 - Activate my virtual env: `source fluxenv/bin/activate` (create with `python3 -m venv fluxenv` if needed).
 - Install libs: `pip install numpy matplotlib`.
 - Run scripts: `python fluxonic_3d.py`, `python soliton_dynamics.py`, etc.
@@ -37,4 +39,4 @@ BecomingPhill / https://x.com/BecomingPhill
 ## Extended Analysis Documentation
 
 For an in-depth analysis of the research work, including detailed findings, synthesis, and thematic mapping, please refer to the contents of the `analysis` folder.
-+ NOTE: The most recent versions of the documentation are located in the `tex` folder (e.g., analysis/copies/tex), while the PDF copies in `analysis/copies/pdf` may be outdated.
++ NOTE: The most recent versions of the research papers are located in the `tex` folder (e.g., analysis/copies/tex), while the PDF copies in `analysis/copies/pdf` may be outdated.
