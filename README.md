@@ -32,7 +32,7 @@ I'm not saying I've solved everything—just testing an idea from RST. I've got 
 - Check plots in `plots/`.
 
 Cheers,
-BecomingPhill/https://github.com/BecomingPhill/ekoholo_fluxonic_unification
+BecomingPhill / https://x.com/BecomingPhill
 
 ## Extended Analysis Documentation
 
