@@ -25,6 +25,7 @@ I'm not saying I've solved everything—just testing an idea from RST. I've got 
 - **Patience**: I'm DIY, not a physicist—this is messy but fun.
 
 ### How to Use
+- Read the papers, each has equations and code simple code examples that can be used to run the simulations yourself. You can extend the simulations to more dimensions or add more complex features.
 - Activate my virtual env: `source fluxenv/bin/activate` (create with `python3 -m venv fluxenv` if needed).
 - Install libs: `pip install numpy matplotlib`.
 - Run scripts: `python fluxonic_3d.py`, `python soliton_dynamics.py`, etc.
